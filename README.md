@@ -1,71 +1,90 @@
-# MOSS-VICTOR
-# Moss Victor
+ Moss Victor
 
-Frontend Engineer | Applied AI Systems Engineer
+Frontend Engineer | Applied AI Systems Builder | Reinforcement Learning Infrastructure
 
-I build intelligent systems at the intersection of AI, simulation environments, reinforcement learning, and frontend engineering.
+I build AI-driven systems, reinforcement learning environments, and modern frontend applications focused on performance, scalability, and experimentation.
 
-Focused on:
-- Agentic AI systems
-- Trading infrastructure
-- RL environments
-- Multi-agent architectures
-- High-performance frontend systems
-
----
-
-## Featured Projects
-
-### Agentic Trading AI System
-AI-driven multi-agent trading architecture designed to simulate full trade lifecycle management.
-
-**Tech:** Python, FastAPI, React, Redis, RL environments, WebSockets
-
-**Highlights:**
-- Multi-agent decision architecture
-- RL training environments
-- Live market simulation
-- Risk engine
-- Strategy orchestration
-
----
-
-### Portfolio Platform
-Modern frontend portfolio focused on performance engineering and clean UI architecture.
-
-**Tech:** Next.js, Tailwind, TypeScript, Framer Motion
-
----
-
-## Technical Focus
-
+My work combines:
+- Frontend Engineering
 - Reinforcement Learning
-- AI Agents
-- Frontend Systems
-- Simulation Environments
-- System Design
-- Performance Engineering
+- AI Systems Design
+- Trading Infrastructure
+- Performance Optimization
+- Research-Oriented Development
 
 ---
 
-## Stack
+ Featured Projects
 
-**Frontend:** React, Next.js, TypeScript, Tailwind  
-**Backend:** Python, FastAPI, Node.js  
-**AI/ML:** PyTorch, RL, Vectorized Environments  
-**Infrastructure:** Docker 
+ Agentic Trading AI System
+Multi-agent reinforcement learning trading infrastructure using Soft Actor-Critic (SAC), synthetic market simulation, risk management systems, and modular trade execution pipelines.
+
+Core Areas:
+- Reinforcement Learning
+- Synthetic Market Simulation
+- Portfolio Monitoring
+- Risk Management
+- Trade Lifecycle Automation
+
+Tech Stack:
+Python, PyTorch, NumPy, Pandas, SAC, Docker
 
 ---
 
-## GitHub Stats
+Portfolio Platform
+Production-grade portfolio platform built with Next.js, React, Tailwind CSS, Framer Motion, and React Three Fiber.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moss-Topman&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moss-Topman&layout=compact&theme=radical)
+Core Areas:
+- Frontend Architecture
+- 3D Web Experiences
+- Performance Optimization
+- Accessibility
+- CI/CD
+
+Tech Stack:
+Next.js, React, TypeScript, Tailwind CSS, Three.js, Playwright
 
 ---
 
-## Contact
+Technical Skills
 
-- **LinkedIn:** https://www.linkedin.com/in/moss-victor-/
-- **Portfolio:** https://portfolio-v5-silk.vercel.app/ 
-- **Email:** Mossvictor600@gmail.com
+Frontend
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Three.js
+
+AI & Research
+- Reinforcement Learning
+- PPO / SAC
+- PyTorch
+- Synthetic Data Simulation
+- Statistical Analysis
+
+Tools & Infrastructure
+- Docker
+- GitHub Actions
+- Playwright
+- Jest
+- Git
+- Vercel
+
+---
+
+ Current Focus
+
+- AI-driven trading systems
+- Reinforcement learning research
+- Frontend systems engineering
+- Performance optimization
+- Scalable experimentation pipelines
+
+---
+
+Connect With Me
+
+- LinkedIn:https://www.linkedin.com/in/moss-victor-/
+- Portfolio: https://portfolio-v5-silk.vercel.app/
+- Email: mossvictor600@gmail.com
