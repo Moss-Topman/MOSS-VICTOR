@@ -86,5 +86,5 @@ Tools & Infrastructure
 Connect With Me
 
 - LinkedIn:https://www.linkedin.com/in/moss-victor-/
-- Portfolio: https://portfolio-v5-silk.vercel.app/
+- Portfolio: https://useatlasdemand.com
 - Email: mossvictor600@gmail.com
